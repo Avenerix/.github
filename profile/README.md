@@ -1,14 +1,5 @@
-# AVENERIX
+<img width="4032" height="1577" alt="image" src="https://github.com/user-attachments/assets/652cef67-4c01-4691-b65a-ceb15ba59dea" />
 
-### Engineering the Transition from Digital Intelligence to Physical Presence.
-
-Artificial intelligence has already changed how humans interact with information.
-
-The next transformation will change how humans interact with the physical world.
-
-At Avenerix, we believe intelligence should not be confined to screens, applications, or cloud services. The future belongs to intelligent systems capable of perceiving, learning, reasoning, and acting in the environments where people live, work, and create.
-
-We are building the technologies that make that future possible.
 
 ---
 
