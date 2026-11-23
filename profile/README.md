@@ -1,5 +1,14 @@
-<img width="4032" height="1577" alt="image" src="https://github.com/user-attachments/assets/652cef67-4c01-4691-b65a-ceb15ba59dea" />
+# AVENERIX
 
+The next era of computing will not live on screens.
+
+It will live beside us.
+
+Artificial intelligence is rapidly becoming the most important technology of our time, yet it remains confined to applications, websites, and digital interfaces.
+
+We believe intelligence belongs in the physical world.
+
+Avenerix exists to bridge the gap between digital intelligence and real-world presence through advanced AI, robotics, and intelligent devices.
 
 ---
 
